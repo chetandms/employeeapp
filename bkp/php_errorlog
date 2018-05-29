@@ -1,0 +1,6 @@
+[24-May-2018 07:59:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ascendna/public_html/staging/employeeapp/vendor/symfony/http-foundation/Response.php on line 491
+[24-May-2018 07:59:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-May-2018 07:59:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-May-2018 07:59:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ascendna/public_html/staging/employeeapp/vendor/symfony/http-foundation/Response.php on line 491
+[24-May-2018 07:59:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-May-2018 07:59:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
